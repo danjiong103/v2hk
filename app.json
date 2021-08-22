@@ -1,6 +1,6 @@
 {
     "name": "V2Hk",
-    "description": "Deploy V2Hk.",
+    "description": "Deploy V2Hk-VL.",
     "keywords": ["V2Hk"],
     "env": {
         "ID": {
@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/danjiong103/v2hk",
+    "repository": "https://github.com/danjiong103/v2hk/tree/vless",
     "stack": "container"
 }
