@@ -1,7 +1,7 @@
 {
-    "name": "V2Hk",
-    "description": "Deploy V2Hk.",
-    "keywords": ["V2Hk"],
+    "name": "V2Hk-VM",
+    "description": "Deploy V2Hk-VM.",
+    "keywords": ["V2Hk-VM"],
     "env": {
         "ID": {
             "description": "UUID",
